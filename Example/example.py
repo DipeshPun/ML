@@ -23,7 +23,7 @@ def main():
     plt.title("K-Means Clustering Results")
     plt.xlabel("X")
     plt.ylabel("Y")
-    plt.savefig('kmeans_plot.png')  # Save plot to file
+    plt.savefig('KMEANS_plot.png')  # Save plot to file
     print("Plot has been saved as 'kmeans_plot.png'")
 
 
